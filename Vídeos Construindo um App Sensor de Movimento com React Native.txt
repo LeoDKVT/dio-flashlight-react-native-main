@@ -1,0 +1,37 @@
+Vídeos Construindo um App usando Sensor de Movimento com React Native
+
+Introdução
+https://www.youtube.com/watch?v=-PuSTZQcHQc
+
+Instalando libs shake e torch
+https://www.youtube.com/watch?v=JsxJz3NCeA8
+
+Baixando os ícones
+https://www.youtube.com/watch?v=y0vvSImnOkM
+
+Estilizando nosso app
+https://www.youtube.com/watch?v=ZatfYQePt14
+
+Hook useState
+https://www.youtube.com/watch?v=LilzkIdm2B0
+
+Hook useEffect e usando o Torch
+https://www.youtube.com/watch?v=z93tWs7hloY
+
+Ouvindo o evento natico do Shake
+https://www.youtube.com/watch?v=mzNtHpGJ2lg
+
+Criar APK para compartilhar o app
+https://www.youtube.com/watch?v=ThrcItFlWcA
+
+Aula bônus - Criando uma release no Github
+https://www.youtube.com/watch?v=uAs6umvpWrU
+
+Github
+https://github.com/ismaelsousa/dio-flashlight
+
+Slides
+https://docs.google.com/presentation/d/1zSHZ8xBvWNUv6ZY21fXr7UseLm5BVeSc/edit?usp=sharing&ouid=105300330738120646134&rtpof=true&sd=true
+
+Ícones
+https://drive.google.com/drive/folders/1Kuh5tysH7-UFuSLHX0IQIIh2xcghHUIX?usp=sharing
